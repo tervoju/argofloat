@@ -2,6 +2,9 @@
 
 argopy trial
 
+see for code [argopy](https://github.com/euroargodev/argopy)
+
+
 
 
 ```
@@ -16,3 +19,6 @@ pip install numpy
 pip install argopy
 
 ```
+
+selected area and floats in baltic sea: baltic_argo_jupy
+
